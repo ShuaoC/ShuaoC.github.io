@@ -324,7 +324,7 @@ color: #949494;
 }
 .subfooter p {
 	margin-bottom: 0;
-	color: #fff;
+	color: #E00A63;
 }
 .hero-caption{
 text-align:center;
@@ -360,7 +360,7 @@ text-align:center;
 	border: 0;
 }
 .btn-default:hover {
-	color: #ffffff;
+	color: #E00A63;
 	background-color: #BB0A53;
 	border: 0;
 }
@@ -516,7 +516,7 @@ padding: 10px 0;
 	border: none;
 }
 .main-navigation .navbar-default .navbar-nav > li > a {
-	color: #fff;
+	color: #030000;
 	padding: 10px 20px;
 	font-size: 18px;
 	font-weight: 400;
