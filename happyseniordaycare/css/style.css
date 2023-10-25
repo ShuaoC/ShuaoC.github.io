@@ -53,10 +53,10 @@ h1 span,
 h2 span,
 h3 span,
 h4 span {
-	color: #F27935;
+	color: #FFFF8F;
 }
 .colored {
-	color: #F27935;
+	color: #FFFF8F;
 }
 a {
 	color: #55acee;
@@ -109,7 +109,7 @@ blockquote {
 .header {
 	color: #ffffff;
 	/* header backgroud color*/
-	background-color: rgba(242, 121, 53, 1);
+	background-color: #FFFF8F;
 	padding: 10px 0;
 	-webkit-transition: all 0.2s ease-in-out;
 	-moz-transition: all 0.2s ease-in-out;
@@ -145,11 +145,11 @@ blockquote {
 	z-index: 2;
 }
 .subfooter {
-	background-color: #F27935;
+	background-color: #FFFF8F;
 	padding: 40px 0;
 }
 .subfooter a {
-color: #F27935;
+color: #FFFF8F;
 }
 .section {
 	background-color: #ffffff;
@@ -228,7 +228,7 @@ border:0px;
 	z-index: 2;
 	width: 100%;
 	height: 100%;
-	background-color: #F27935;
+	background-color: #FFFF8F;
 }
 .transprant-bg.blue:after {
 	background-color: rgba(65, 65, 65, 0.7);
@@ -394,7 +394,7 @@ text-align:center;
 	display: inline-block;
 	width: 100%;
 	background-color: #fff;
-	color: #F27935;
+	color: #FFFF8F;
 	position: relative;
 	text-decoration: none;
 	border: #ECECEC 1px solid;
@@ -420,7 +420,7 @@ text-align:center;
 .panel-heading a:hover {
 	text-decoration: none;
 	background-color: #FFFFFF;
-	color: #F27935;
+	color: #FFFF8F;
 }
 .panel-title a i {
 	padding-right: 10px;
@@ -433,8 +433,8 @@ text-align:center;
 .nav-pills > li.active > a:hover,
 .nav-pills > li.active > a:focus,
 .nav-pills > li > a:hover {
-	background-color: #F27935;
-	border-color: #F27935;
+	background-color: #FFFF8F;
+	border-color: #FFFF8F;
 	color: #ffffff;
 }
 .nav-pills > li > a {
@@ -662,7 +662,8 @@ padding: 10px 0;
 /* Fixed Header
 ----------------------------------------------------------------------------- */
 .fixed-header-on .header {
-	background-color: rgb(236, 135, 77);
+	/*SCROLL DOWN MENU COLOR*/
+	background-color: rgb(236, 225, 77);
 	padding: 5px 0;
 }
 .fixed-header-on .brand {
